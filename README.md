@@ -2,6 +2,8 @@
 
 ## Project Description
 This project aims to develop a machine-learning model capable of classifying any news article as fake or not. I have used two techniques to determine the best model techniques and used it for classifiying and resulting the prediction.
+1. Logistic Regression
+2. Naive Bayes
 
 ## Usage
 Follow these steps to run the program on your local device. 
